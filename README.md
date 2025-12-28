@@ -1,6 +1,8 @@
 # 💰 Calculadora de Préstamos
 
-Este proyecto es una aplicación web interactiva diseñada para ayudar a los usuarios a calcular sus cuotas de préstamos mensuales de forma rápida y sencilla. Es una herramienta útil para la planificación financiera personal.
+Esta aplicación web es una solución diseñada tanto para la planificación financiera personal como para facilitar la labor de prestamistas independientes.
+
+El objetivo principal es proporcionar una herramienta transparente y rápida que el prestamista puede compartir con sus clientes. Esto permite que los usuarios finales visualicen con precisión el desglose de sus cuotas, intereses y plazos antes de concretar una operación, mejorando la confianza y la claridad en el servicio.
 
 ## 🚀 Características
 * **Cálculo Automático:** Calcula el saldo pendiente y las cuotas basándose en el monto, interés y plazo.
