@@ -13,7 +13,7 @@ Este proyecto es una aplicación web interactiva diseñada para ayudar a los usu
 * **JavaScript (ES6):** Lógica de cálculo y manejo de eventos.
 
 ## 📸 Demo
-> 
+> 🔗 Link del proyecto: https://jhonpatrick1.github.io/Calculadora-de-Prestamos/PRESTAMOS/
 
 ## 💻 Cómo ejecutarlo
 1. Clona el repositorio: `git clone https://github.com/jhonPatrick1/Calculadora-de-Prestamos.git`
